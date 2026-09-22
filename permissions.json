@@ -1,0 +1,20 @@
+{
+    "commands": [
+        {
+            "type": "com.okta.access.patch",
+            "value": [
+                {
+                    "op": "add",
+                    "path": "/claims/permissions",
+                    "value": [
+                        "general.read",
+                        "process.read",
+                        "process.write",
+                        "param.approve",
+                        "audit.read"
+                    ]
+                }
+            ]
+        }
+    ]
+}
