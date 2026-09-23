@@ -9,8 +9,8 @@
                     "value": [
                         "general.read",
                         "process.read",
-                        "process.write",
-                        "param.approve",
+                        "process.read",
+                        "param.read",
                         "audit.read"
                     ]
                 }
