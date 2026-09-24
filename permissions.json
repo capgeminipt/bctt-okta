@@ -8,6 +8,7 @@
                     "path": "/claims/permissions",
                     "value": [
                         "general.read",
+                        "general.write",
                         "audit.read"
                     ]
                 }
