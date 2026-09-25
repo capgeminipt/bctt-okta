@@ -7,6 +7,19 @@
                     "op": "add",
                     "path": "/claims/permissions",
                     "value": [
+                      "geral.read",
+                      "process.read",
+                      "process.write",
+                      "exception.read",
+                      "exception.write",
+                      "recon.read",
+                      "recon.write",
+                      "param.read",
+                      "param.write",
+                      "alerta.read",
+                      "alerta.write",
+                      "report.read",
+                      "audit.read"
                     ]
                 }
             ]
